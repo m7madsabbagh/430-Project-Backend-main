@@ -33,17 +33,7 @@
 
 ## Authors
 
--Carl Aziz
-
--Jad Sassine
-
--Mohammad Sabbagh
-
--Karim Shammas
-
--Jad Oueida
-
--Nemer Abdel Amir
+-m7madsabbagh
 
 
 
